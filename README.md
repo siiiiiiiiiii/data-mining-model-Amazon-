@@ -1,1 +1,9 @@
-Built a data mining model for Amazon headphones and laptops. The decision tree achieved strong performance with an accuracy of 0.82, precision 0.79, recall 0.71, and an F1‑score of 0.75.
+📊 **Amazon Product Data Mining Model**
+
+Developed a data mining model targeting **Amazon headphones and laptops**.  
+The **Decision Tree classifier** demonstrated solid performance:
+
+- **Accuracy**: 0.82  
+- **Precision**: 0.79  
+- **Recall**: 0.71  
+- **F1-Score**: 0.75
